@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: hello-world-app
-        image: mahsamii/node-hello:809bfdf
+        image: mahsamii/node-hello:0c89670
      
         ports:
         - containerPort: 3000
